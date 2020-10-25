@@ -1,1 +1,1 @@
-# allergenspotter
+# Allergen Spotter
